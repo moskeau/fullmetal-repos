@@ -1,0 +1,14 @@
+Daniel Fernández Gudiño (Mosko)
+/Users/Moskeau/repos/web-media-centro                             Estoy a 4 niveles de mi carpeta raíz.
+README.md, excersises, lectures, references
+README.md, references, lectures, excersises
+“.”, “..”, “.DS_Store”, “.git”, “.gitignore”, README.md, excersises, lectures refrences. //  README.md, references, lectures, excersises.
+/Users/Moskeau/Desktop
+
+
+teste_a.txt, teste_b.txt
+
+
+
+
+echo Genera un archivo de texto, ingresando su contenido entre comillas y poniéndole un nombre después de “>>”.
