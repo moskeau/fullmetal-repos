@@ -1,6 +1,4 @@
 # fullmetal-repos
-repository for testing
+repositorio para la clase
 
-Estoy haciendo un cambio en mi README
-Hello World Git.
- Segunda edición
+Dentro de excercises se encuentran las diferentes carpetas de ejercicios: CH1, CH2, CH3.
